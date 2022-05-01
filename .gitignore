@@ -1,0 +1,6 @@
+venv
+docs
+.idea
+.coverage
+.tox
+typycal_periods.egg-info
