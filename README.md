@@ -1,6 +1,7 @@
 ![typycal_periods](https://socialify.git.ci/dpiendl/typycal_periods/image?description=1&font=Raleway&language=1&owner=1&pattern=Solid&theme=Light)
 
 ![Tests](https://github.com/dpiendl/typycal_periods/actions/workflows/tests.yml/badge.svg)
+[![Codacy Badge](https://app.codacy.com/project/badge/Coverage/ba0a2bf3d0344499bd294f0d124918ae)](https://www.codacy.com/gh/dpiendl/typycal_periods/dashboard?utm_source=github.com&utm_medium=referral&utm_content=dpiendl/typycal_periods&utm_campaign=Badge_Coverage)
 
 # typycal_periods
 
@@ -40,9 +41,6 @@ enabling a reasoned choice of the number of typical periods.
 * scikit-learn >= 0.24.2,
 * scipy >= 1.5.4 and
 * matplotlib >= 3.3.4
-
-Missing packages are installed automatically.
-No support for Python 3.6 or lower as numpy does not provide the numpy.typing package.
 
 ## Installation
 Activate your virtual environment or similar, then run:
